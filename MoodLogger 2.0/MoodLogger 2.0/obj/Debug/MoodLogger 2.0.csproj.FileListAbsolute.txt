@@ -1,0 +1,7 @@
+D:\ISYAZILIM\MoodLogger 2.0\MoodLogger 2.0\obj\Debug\MoodLogger 2.0.csproj.AssemblyReference.cache
+D:\ISYAZILIM\MoodLogger 2.0\MoodLogger 2.0\obj\Debug\MoodLogger 2.0.csproj.CoreCompileInputs.cache
+D:\ISYAZILIM\MoodLogger 2.0\MoodLogger 2.0\bin\Debug\MoodLogger 2.0.exe.config
+D:\ISYAZILIM\MoodLogger 2.0\MoodLogger 2.0\bin\Debug\MoodLogger 2.0.exe
+D:\ISYAZILIM\MoodLogger 2.0\MoodLogger 2.0\bin\Debug\MoodLogger 2.0.pdb
+D:\ISYAZILIM\MoodLogger 2.0\MoodLogger 2.0\obj\Debug\MoodLogger 2.0.exe
+D:\ISYAZILIM\MoodLogger 2.0\MoodLogger 2.0\obj\Debug\MoodLogger 2.0.pdb
